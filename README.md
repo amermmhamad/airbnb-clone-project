@@ -29,3 +29,5 @@ Clone project of the popular Airbnb for ALX
 ### - Property Listing View: Grid display of available properties with filters.
 ### - Listing Detailed View: Complete property details with images and booking form.
 ### - Simple Checkout View: Streamlined payment and booking confirmation.
+
+| Property Listing View | Listing Detailed View | Simple Checkout View |
