@@ -79,9 +79,9 @@ Secondary Text: Circular, Book (400), 14px
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
-- Footer
-
-3. Site links
+  
+3.Footer
+- Site links
 - Company information
 - Social media links
 - Copyright information
